@@ -1,0 +1,22 @@
+V	250120221153Z		01	unknown	/C=BA/ST=RS/O=ETF/OU=ETF/CN=Test Test/emailAddress=test@mail.com
+V	250120231920Z		02	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=ETF/CN=kkk/emailAddress=kkk
+V	250121015135Z		03	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=ETF/CN=ooo/emailAddress=poopp
+V	250121015235Z		04	unknown	/C=BA/ST=RS/O=ETFF/OU=ETFF/CN=ETF/emailAddress=ETF
+V	250121102419Z		05	unknown	/C=BA/ST=RS/O=ETF/OU=ETF/CN=nesto/emailAddress=nesto
+V	250121103148Z		06	unknown	/C=BA/ST=RS/O=LK/OU=LK/CN=janko/emailAddress=janko
+V	250121103923Z		07	unknown	/C=BA/ST=RS/O=BL/OU=BL/CN=drakena/emailAddress=drakena2
+V	250121123734Z		08	unknown	/C=BA/ST=RS/O=LA/OU=LA/CN=marko/emailAddress=marko
+V	250121124057Z		09	unknown	/C=US/ST=sd/O=hog/OU=hog/CN=hari/emailAddress=hari
+V	250121141119Z		0A	unknown	/C=BA/ST=kris/O=kris/OU=kris/CN=kris/emailAddress=kris
+V	250121141312Z		0B	unknown	/C=jo/ST=joko/O=jok/OU=jok/CN=jok/emailAddress=jok
+V	250121141605Z		0C	unknown	/C=ba/ST=bas/O=bas/OU=bas/CN=jele/emailAddress=jele
+V	250121141812Z		0D	unknown	/C=an/ST=ana/O=ana/OU=ana/CN=ana/emailAddress=ana
+V	250121142106Z		0E	unknown	/C=SA/ST=jasna/O=jasna/OU=jasna/CN=jasna/emailAddress=jasna
+V	250121142352Z		0F	unknown	/C=RA/ST=rada/O=rada/OU=rada/CN=rada/emailAddress=rad
+V	250121152829Z		10	unknown	/C=VA/ST=vesna/O=vesna/OU=vesna/CN=vesna/emailAddress=vesna
+R	250121154109Z	240122182828Z,certificateHold	11	unknown	/C=do/ST=dora/O=dora/OU=dora/CN=dora/emailAddress=dora
+V	250121193332Z		12	unknown	/C=sl/ST=sl/O=sl/OU=sl/CN=sl/emailAddress=sl
+V	250121215755Z		13	unknown	/C=BA/ST=RS/O=etf/OU=etf/CN=sarka/emailAddress=sarka
+V	250122001505Z		14	unknown	/C=BA/ST=RS/O=ETF/OU=ETF/CN=Mile/emailAddress=mile@mail.com
+V	250122001703Z		15	unknown	/C=MA/ST=MA/O=M/OU=AM/CN=MA/emailAddress=MA
+V	250122091453Z		16	unknown	/C=BA/ST=RS/O=ETF/OU=ETF/CN=Masa/emailAddress=masa@mail.com
